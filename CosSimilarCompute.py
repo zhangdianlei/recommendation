@@ -57,3 +57,5 @@ w_t = [0.4, 0.6, 0.8, 0.5]
 print(cosSimilarCompute(u_k, w_t))
 print(cosSim(u_k, w_t))
 
+
+
